@@ -1,5 +1,5 @@
 # toc_definition
-forsøk op oversettelse av:
+forsøk på oversettelse av:
 https://github.com/cncf/toc/blob/master/DEFINITION.md
 
 Empower = gir (strategisk) evne?, toil = knug?

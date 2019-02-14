@@ -4,7 +4,7 @@ https://github.com/cncf/toc/blob/master/DEFINITION.md
 
 Empower = gir (strategisk) evne?, toil = knug?
 
-Cloud native teknologier gir organisasjoner evne til å bygge samt kjøre skalerbare applikasjoner i moderne dynamiske miljøer slik som offentlige, private og hybride skytjenester. Denne tilnærmingen benytter gjerne «Containers, service meshes, microservices, immutable infrastructure, and declarative APIs»
+Cloud native teknologier gir organisasjoner evne til å bygge samt kjøre skalerbare applikasjoner i moderne dynamiske miljøer slik som offentlige, private og hybride skytjenester. Denne tilnærmingen benytter gjerne "Containers, service meshes, microservices, immutable infrastructure" og deklarative API.
 
 Teknikkene muliggjør løst koblede systemer som er motstandsdyktige ved feilsituasjoner (resilient), og de legger til rette for god forvaltning og overvåkning. Sammen med robust automasjon gir dette operatørene mulighet til å gjøre store og hyppige endringer med forutsigbarhet og lite knug (repetitivt arbeid av lav verdi for virksomheten).
 

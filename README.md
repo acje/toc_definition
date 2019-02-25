@@ -2,7 +2,7 @@
 Forsøk på oversettelse av:
 https://github.com/cncf/toc/blob/master/DEFINITION.md
 
-Empower = gir (strategisk) evne?, toil = knug?
+Empower = gir (strategisk) evne?, toil = knug (slavearbeid)?
 
 ---
 
